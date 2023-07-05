@@ -1,0 +1,6 @@
+Open git bash
+git clone https://github.com/mishal23/os-simulator.git
+cd os-simulator
+npm install (To install all the dependency packages)
+npm start
+Go to Browser and type http://localhost:3000
